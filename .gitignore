@@ -1,2 +1,3 @@
 *.txt
-viegenere/pruebas
+viegenere/pruebas/*
+pruebas/*
